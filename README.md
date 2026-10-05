@@ -16,6 +16,7 @@ Image library for hydro jetting and drain cleaning sites. Pull images from `imag
 | images/preventative-maintenance/ | 3 |
 | images/recurring-clogs/ | 3 |
 | images/roots/ | 4 |
+| images/stitch-generic/ | 6 |
 | images/technicians/ | 6 |
 
 File names keep the original number at the end (for example `power-spray-1.jpg`).
